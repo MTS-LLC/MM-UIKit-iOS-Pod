@@ -1,0 +1,22 @@
+{
+  "name": "UIKit-iOS-Pod",
+  "version": "0.1.0",
+  "summary": "A short description of UIKit-iOS-Pod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/louieyuen/UIKit-iOS-Pod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "louieyuen": "lyuen@jibestream.com"
+  },
+  "source": {
+    "git": "https://github.com/louieyuen/UIKit-iOS-Pod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "UIKit-iOS-Pod/Classes/**/*"
+}

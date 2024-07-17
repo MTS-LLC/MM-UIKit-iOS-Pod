@@ -1,0 +1,16 @@
+PODS:
+  - UIKit-iOS-Pod (0.1.0)
+
+DEPENDENCIES:
+  - UIKit-iOS-Pod (from `../`)
+
+EXTERNAL SOURCES:
+  UIKit-iOS-Pod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UIKit-iOS-Pod: e49c6ad1cd9e7a78cbae7ba4f86a4710f5869bb7
+
+PODFILE CHECKSUM: a18062ca7a8b8558a002a1cc9bdf07bce0425c09
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+use_frameworks!
+target 'UIKit-iOS-Pod_Tests' do
+  pod 'UIKit-iOS-Pod', :path => '../'
+  
+  
+end
